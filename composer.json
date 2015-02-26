@@ -1,0 +1,9 @@
+{
+  "name": "texanhogman/sample-site",
+  "description": "A sample site",
+  "type": "project",
+  "version": "1.0.0",
+  "require": {
+    "texanhogman/product-bundle": "2.0.0-RC2"
+  }
+}
