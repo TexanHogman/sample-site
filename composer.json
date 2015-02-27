@@ -4,7 +4,6 @@
   "type": "project",
   "version": "1.0.0",
   "require": {
-    "texanhogman/product-bundle": "2.0.0-RC1",
-    "texanhogman/acme-extension": "~1.0"
+    "texanhogman/product-bundle": "2.0.0-RC1"
   }
 }
