@@ -4,6 +4,6 @@
   "type": "project",
   "version": "1.0.0",
   "require": {
-    "texanhogman/product-bundle": "2.0.0-RC2"
+    "texanhogman/product-bundle": "2.0.0-RC3"
   }
 }
